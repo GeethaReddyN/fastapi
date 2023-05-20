@@ -1,0 +1,6 @@
+# BaseSettings is a pydantic class to do the validation
+# ... three dots in pydantic is None
+# this file config.py is there because we are settings some configurations here
+# sql alchemy - take sql queries as python inputs and then convert them into sql commands
+
+sql alchemy is an orm - write sql queries in python and then it'll 
